@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/acecera/Fridge2Fork/issues"
   },
-  "homepage": "https://github.com/acecera/Fridge2Fork#readme"
+  "homepage": "https://github.com/acecera/Fridge2Fork#readme",
+  "devDependencies": {
+    "webpack": "^4.41.2"
+  },
+  "dependencies": {
+    "jquery": "^3.4.1"
+  }
 }
